@@ -18,4 +18,5 @@ SetUp
 1. Run 'git clone [https://github.com/sarvesh-onlyme/urlShortener.git](https://github.com/sarvesh-onlyme/urlShortener.git)' to your localhost directory i.e htdocs/ in Windows and may be /var/www in linux.
 2. Open db.class.php, edit HOSTNAME, USERNAME and PASSWORD.
 3. Open javascripts/url.js edit DOMAIN to /path/to/urlShortener
-4. Finally, Open 'DOMAIN/path/to/urlShortener/index.html'
+4. Import urlShortener.sql to your mysql database
+5. Finally, Open 'DOMAIN/path/to/urlShortener/index.html'
