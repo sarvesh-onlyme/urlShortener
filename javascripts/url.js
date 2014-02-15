@@ -1,4 +1,4 @@
-var domain = "localhost/php/urlShortener/url.php?shortUrl=";
+var domain = "DOMAIN/urlShortener/url.php?shortUrl=";  //"http://localhost/php/urlShortener/url.php?shortUrl=";
 
 $(document).ready(function() {
   $('.getShortenUrl').click(function() {
